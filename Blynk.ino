@@ -2,7 +2,7 @@
 #include<BlynkSimpleEsp8266.h>
 #include<ESP8266WiFi.h>
 
-char auth[] = "xxxxxxxxxxxxxxxxxxxxxxxxxx"; //blynk auth id
+char auth[] = "xxxxxxxxxxxxxxxxxxxxxxxxxx"; //blynk authentication id
 
 char ssid[] = "xxxxxxxxxx"; 		    //wifi ssid
 char pass[] = "xxxxxxxxxx";		    //wifi password
